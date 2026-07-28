@@ -226,6 +226,6 @@ InterviewIQ AI is an educational and portfolio project created to demonstrate pr
 ---
 <div align="center">
   Built by **SOHAM patil**<br>
- - [Live Project](https://interview-iq-gldfph49c-omkar-patil.vercel.app))<br>
+ - [Live Project](https://interview-iq-gldfph49c-omkar-patil.vercel.app)<br>
 
 </div>
