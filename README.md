@@ -224,8 +224,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 InterviewIQ AI is an educational and portfolio project created to demonstrate production-grade full-stack software engineering, AI integration, and scalable SaaS architecture. It is not affiliated with or endorsed by Google, Microsoft, Amazon, Meta, or any other company referenced for interview preparation.
 
 ---
-<div align="center">
-  Built by **SOHAM patil**<br>
- - [Live Project](https://interview-iq-gldfph49c-omkar-patil.vercel.app)<br>
-
-</div>
+👨‍💻 Author
+Soham Patil
+<br>
+🌍 [GitHub Profile](https://github.com/Soham-patil18/InterviewIQ-AI)<br>
+🔗 [Live Project](https://interview-iq-gldfph49c-omkar-patil.vercel.app)<br>
+📧 Email: sohampatil49690@gmail.com
