@@ -24,7 +24,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Visit the Live Site](interview-iq-gldfph49c-omkar-patil.vercel.app)
+👉 [Visit the Live Site](https://interview-iq-gldfph49c-omkar-patil.vercel.app)
 
 Production deployment is currently in progress.
 
@@ -225,7 +225,7 @@ InterviewIQ AI is an educational and portfolio project created to demonstrate pr
 
 ---
 <div align="center">
-  Built by **SOHAM-patil18**<br>
+  Built by **SOHAM patil**<br>
   🌍 [GitHub Profile](https://github.com/Soham-patil18)<br>
-  🔗 [Live Project](interview-iq-gldfph49c-omkar-patil.vercel.app)
+  🔗 [Live Project](https://interview-iq-gldfph49c-omkar-patil.vercel.app)<br>
 </div>
