@@ -225,6 +225,7 @@ InterviewIQ AI is an educational and portfolio project created to demonstrate pr
 
 ---
 👨‍💻 Author
+<br>
 Soham Patil
 <br>
 🌍 [GitHub Profile](https://github.com/Soham-patil18/InterviewIQ-AI)<br>
